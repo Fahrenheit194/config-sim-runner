@@ -80,7 +80,7 @@ Columns:
 
 The trajectory can be visualized from the simulation output.
 
-<img width="479" height="284" alt="Projectile trajectory plot" src="https://github.com/user-attachments/assets/9d84d970-a16a-4223-a34d-127b2f6d7b21" />
+<img width="625" height="376" alt="Simulation output plot" src="https://github.com/user-attachments/assets/c0bf5c78-04d6-450a-b3d8-6729603703f9" />
 
 ---
 
@@ -113,3 +113,4 @@ The replay produces the same results as the original run, demonstrating reproduc
 ## License
 
 MIT
+
